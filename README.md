@@ -10,6 +10,7 @@
             padding: 0;
             box-sizing: border-box;
         }
+
         body {
             font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
             background: linear-gradient(145deg, #f9e3e3 0%, #f8d5d5 100%);
